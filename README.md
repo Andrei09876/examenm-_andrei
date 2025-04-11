@@ -1,2 +1,2 @@
-# examenm-_andrei
- examemul la asistenţă în managementul proiectelor software
+Numărul biletului: 21  
+Descriere: Proiect de autentificare simplă folosind HTML, CSS și JavaScript.
